@@ -35,7 +35,7 @@
 #### You can also find me on: 
 
 [<img align="left" alt="NgocSon | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="NgocSon | Instagram" width="30px" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" />][Facebook]
+[<img align="left" alt="NgocSon | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" />][Facebook]
 [<img align="left" alt="NgocSon | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
 <!--[<img align="left" alt="NgocSon | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
     -->                                                                                                                                                                   

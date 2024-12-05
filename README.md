@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Nguyen Ngoc Son 😀</h1>
-<h4 align="center">I'm want to AI Engineer. | Mentor | YouTuber @ngocson286</h4>
+<h4 align="center">I'm want to AI Engineer. |  | YouTuber @ngocson286</h4>
 
 
 
@@ -35,7 +35,7 @@
 #### You can also find me on: 
 
 [<img align="left" alt="NgocSon | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="NgocSon | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
+[<img align="left" alt="NgocSon | Instagram" width="30px" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" />][Facebook]
 [<img align="left" alt="NgocSon | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
 <!--[<img align="left" alt="NgocSon | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
     -->                                                                                                                                                                   

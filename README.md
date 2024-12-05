@@ -36,8 +36,9 @@
 
 [<img align="left" alt="NgocSon | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="NgocSon | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="NgocSon | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
-                                                                                                                                                                       
+[<img align="left" alt="NgocSon | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
+<!--[<img align="left" alt="NgocSon | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
+    -->                                                                                                                                                                   
 
 <br>
 
@@ -46,9 +47,10 @@
 [linkedin]: https://www.linkedin.com/in/286sunsun/
 [Facebook]: https://www.facebook.com/286nguyenngocson
 [YouTube]: https://www.youtube.com/@ngocson286
+
 <!-- [LeetCode]: https://leetcode.com/entbappy/ -->
 
-<!--## 💰 You can support me if you liked my work by Donating
+<!--## 💰 You can support me if you like my work by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dswithbappy)
 -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=entbappy&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>

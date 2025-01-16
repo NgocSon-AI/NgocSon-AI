@@ -4,10 +4,10 @@
 
 
 
-### I have technical experience and interest in:
+### I'm studying techniques of:
 * Deep Learning
 * Machine Learning
-* Computer vision 
+* Computer Vision 
 * Natural Language Processing
 * MLOps
 * Generative AI 

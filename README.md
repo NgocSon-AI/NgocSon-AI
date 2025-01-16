@@ -36,7 +36,7 @@
 
 ### My Hobbies and interests:
 * Jogging
-* Read a book
+* Read book
 * Listen to Music
 * Coding
 

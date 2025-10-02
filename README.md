@@ -4,7 +4,7 @@
 
 
 
-### I'm studying techniques of:
+### I have techniques of:
 * Deep Learning
 * Machine Learning
 * Computer Vision 

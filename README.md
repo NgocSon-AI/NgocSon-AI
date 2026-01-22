@@ -61,7 +61,7 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/286sunsun/
+[linkedin]: https://www.linkedin.com/in/286ngocson/
 [Facebook]: https://www.facebook.com/286nguyenngocson
 [YouTube]: https://www.youtube.com/@ngocson286
 

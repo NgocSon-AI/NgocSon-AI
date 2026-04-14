@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h1 align="center">👻 I'm Nguyen Ngoc Son 👻</h1>
-<h4 align="center">I'm an AI Engineer. |  | YouTuber @ngocson286</h4>
+<h4 align="center">I'm an AI Engineer./h4>
 
 
 
